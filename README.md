@@ -12,7 +12,7 @@ Learning Net bean in springboot
 | `tree`          | Show folder structure                |
 | `explorer .`    | Open current folder in File Explorer |
 
-if we want to open my project inside the vs code means cmd -> project path and enter `code .`
+if we want to open my project inside the vs code means open the project path in cmd and type `code .` enter.
 
 ![alt text](Images/image.png)
 
