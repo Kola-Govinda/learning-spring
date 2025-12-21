@@ -14,5 +14,33 @@ Learning Net bean in springboot
 
 if we want to open my project inside the vs code means open the project path in cmd and type `code .` enter.
 
-![alt text](Images/image.png)
+![alt text](Images/CMD.png)
+
+# Git and GitHub
+
+Step - 1 
+
+install the git in local 
+
+link for windows -> https://git-scm.com/install/windows
+
+![alt text](Images/git-install.png)
+
+1. Wait for installation to complete.
+2. Click Finish.
+3. Git is now installed on your system 🎉
+
+## Verify Git Installation
+
+Open Command Prompt
+
+`git --version`
+
+Step - 2
+
+Configure Git (First Time Only)
+
+`git config --global user.name "Kolagovinda"`
+
+`git config --global user.email "kolagovindawork@gmail.com"`
 
